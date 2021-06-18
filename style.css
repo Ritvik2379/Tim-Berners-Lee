@@ -93,3 +93,15 @@ p {
     font-family: fantasy;
     font-size: 20px;
 }
+
+a {
+    text-decoration: none;
+}
+
+.article:hover {
+    color: darkolivegreen;
+}
+
+html {
+    scroll-behavior: smooth;
+}
